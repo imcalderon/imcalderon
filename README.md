@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @imcalderon, a Software Engineer focused on improving developer workflows and system efficiency. With over 25 years in software development, including work at Pixar Animation Studios and Sony Creative Software, I'm passionate about creating tools that make developers' lives easier.
+- 👋 Hi, I’m Ivan, a Software Engineer focused on improving developer workflows and system efficiency. With over 25 years in software development, including work at Pixar Animation Studios and Sony Creative Software, I'm passionate about creating tools that make developers' lives easier.
 
-## 🛠️ Current Focus
+## 🛠️ Current Code Focus
 Building and sharing developer productivity tools, with emphasis on:
 - Development environment automation
 - System optimization
 - Cross-platform infrastructure
 - Configuration management
 - Developer experience
+Dusting old code off and modernizing it for github.
 
 ## 🔧 Tools & Projects
 ### DevEnv
@@ -17,7 +18,8 @@ Comprehensive development environment manager:
 - Extensible JSON configuration system
 - Support for Python, ZSH, Git, VSCode, Docker, and Conda environments
 
-*More tools coming soon!*
+### BatAttack
+A modern Phaser 3 platformer game where you play as a bat collecting fruits and coins while avoiding enemies. Originally developed as a school project for CS506 Software Engineering at UW Madison, this version has been modernized and restructured with improved architecture and level loading.
 
 ## 💡 Areas of Expertise
 - System Architecture
