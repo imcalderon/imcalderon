@@ -1,7 +1,11 @@
 # Ivan M. Calderon
 
 ## 👋 About Me
-Senior Build & Release Engineer with 25+ years of experience optimizing complex build systems and engineering solutions. Previously at Pixar Animation Studios (2016-2024), where I contributed to 11 major animated films including Coco, Soul, and Inside Out 2. Passionate about solving challenging technical problems with elegant, scalable solutions.
+Build & Release Engineer with a unique blend of technical expertise spanning animation, professional media software, and audio engineering. My 25+ year journey has taken me from designing recording studios and mixing for legendary drummer Clyde Stubblefield to optimizing build systems at Pixar Animation Studios (2016-2024), where I contributed to 11 major films including Coco, Soul, and Inside Out 2.
+
+At Pixar, I co-led the migration from RPM to Conda packaging, helped manage a repository of 530+ packages, and developed BuildMetrics—a Python application that reduced build times by 20% across the studio. My expertise includes designing multi-threaded log processing systems, implementing complex CI/CD pipelines, and developing innovative dependency optimization tools like 'libuntangle'.
+
+Before Pixar, I worked at Sony Creative Software/Sonic Foundry where I led Quality Assurance for Vegas Pro and designed and implemented installer systems (MSI, setup.exe) for their professional software suite. I also developed registration systems for serial number validation. This experience with professional media software like Vegas Pro, Sound Forge, and ACID provided valuable insights into complex software delivery. My roots in audio engineering give me a unique perspective on technical problem-solving, whether I'm optimizing build processes or designing sound systems.
 
 ## 🎬 Film Credits
 My name appears in the credits of these Pixar films:
