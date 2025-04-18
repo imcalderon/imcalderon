@@ -17,6 +17,22 @@ My name appears in the credits of these Pixar films:
 - Elemental
 - Inside Out 2
 
+## 🖥️ Software Product Contributions
+I've contributed to these commercial software products:
+
+**Sony Creative Software**
+- Vegas Pro - Professional video editing software
+- Sound Forge Pro/Audio Studio - Professional audio editing software
+- ACID Pro/Music Studio - Music production software
+- DVD Architect - DVD and Blu-ray authoring software
+- Movie Studio - Consumer video editing software
+- SpectraLayers - Spectral audio editing software
+- Cinescore - Automatic soundtrack generation software
+
+**Sonic Foundry (Pre-Sony)**
+- Vegas Video - Non-linear video editing software
+- Siren Jukebox - Media player and management software
+
 ## 🛠️ Technical Skills
 ### Build Systems & CI/CD
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
