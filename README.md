@@ -20,17 +20,7 @@ Before Pixar, I worked at Sony Creative Software/Sonic Foundry where I led Quali
 
 ## 🎬 Film Credits
 My name appears in the credits of these Pixar films:
-- Cars 3
-- Coco
-- Incredibles 2
-- Toy Story 4
-- Onward
-- Soul
-- Luca
-- Turning Red
-- Lightyear
-- Elemental
-- Inside Out 2
+- Cars 3, Coco, Incredibles 2, Toy Story 4, Onward, Soul, Luca, Turning Red, Lightyear, Elemental, Inside Out 2
 
 ## 🖥️ Software Product Contributions
 I've contributed to these commercial software products:
