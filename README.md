@@ -1,87 +1,80 @@
 # Ivan M. Calderon
 
-## 👋 About Me
-Build & Release Engineer with a unique blend of technical expertise spanning animation, professional media software, and audio engineering. Currently working as a Pipeline Technical Artist/Build Engineer with Meta's Horizons team, developing AR/VR pipeline infrastructure and tools.
+**Pipeline Technical Artist & Build Engineer** | **AR/VR Infrastructure Developer** | **Audio Engineer**
 
-My 25+ year journey has taken me from designing recording studios and mixing for legendary drummer Clyde Stubblefield to optimizing build systems at Pixar Animation Studios (2016-2024), where I contributed to 11 major films including Coco, Soul, and Inside Out 2. At Pixar, I co-led the migration from RPM to Conda packaging, helped manage a repository of 530+ packages, and developed BuildMetrics—a Python application that reduced build times by 20% across the studio.
+Born in Bogotá, Colombia, and immigrated to the United States in 1985, I've built a unique 25+ year career that began with mixing sound for live bands and evolved into developing cutting-edge AR/VR pipeline infrastructure at Meta.
 
-Currently, I'm developing my most ambitious project yet: **DevEnv**, a comprehensive cross-platform development environment system that automates the setup and management of development tools across Linux, macOS, Windows, and WSL. This modular system includes 15+ integrated modules covering everything from Python and Node.js to Docker and VSCode, with state-aware installation, backup capabilities, and container orchestration.
+## 🎵 The Journey: From Sound Boards to Build Systems
 
-Now at Meta, I'm applying this expertise to cutting-edge AR/VR development, working with Perforce administration, building systems for 3D content pipelines, and developing APIs that support the next generation of social experiences in Augmented and Virtual Reality.
+### **1990s: Sound Engineer (Teen/Young Adult)**
+My technical journey started behind the mixing board at **The Chamber** and **The New Loft** in Madison, WI. As a teenager, I was mixing live sound for 100+ bands including legendary drummer **Clyde Stubblefield's Blue Mondays**, designing custom PA systems, and mentoring youth in audio engineering. This hands-on experience taught me precision, workflow optimization, and creative problem-solving under pressure.
 
-Before Pixar, I worked at Sony Creative Software/Sonic Foundry where I led Quality Assurance for Vegas Pro and designed and implemented installer systems (MSI, setup.exe) for their professional software suite. My roots in audio engineering give me a unique perspective on technical problem-solving, whether I'm optimizing build processes or designing sound systems.
+### **1999-2005: QA Engineer at Sonic Foundry**
+The transition from audio engineering to software happened naturally when I joined **Sonic Foundry** as Lead QA Engineer for **Vegas Video** (now MAGIX Vegas Pro). I was testing the very software tools that professional audio and video engineers used, bridging my understanding of user needs with technical implementation. This role taught me automated testing frameworks and the importance of user-centered design.
 
-## 🚀 Current Role
-**Pipeline Technical Artist/Build Engineer** at **Meta (Horizons Team)**
-- Developing APIs for AR/VR development tools and systems
-- Designing build systems for testing pipelines, tools, and 3D content
-- Administering Perforce for large-scale 3D content and code management
-- Building environment setup and software distribution systems
+### **2003-2006: Studio Build & Production**
+While at Sonic Foundry, I co-founded **23 Productions**, designing and building a complete recording studio with isolated vocal and drum rooms. This project combined my audio engineering roots with project management and technical architecture skills—essentially becoming a "build engineer" for physical spaces.
 
-## 🎬 Film Credits
-My name appears in the credits of these Pixar films:
-- Cars 3, Coco, Incredibles 2, Toy Story 4, Onward, Soul, Luca, Turning Red, Lightyear, Elemental, Inside Out 2
+### **2005-2014: Install Engineer at Sony Creative Software**
+At **Sony Creative Software**, I evolved into a Software Release Engineer, developing the installer systems that distributed Vegas Pro and other professional media software to millions of users. I created automated Windows installer platforms using Python MSI tooling, software update systems, and cross-platform registration frameworks. This is where I truly became a "build engineer" in the software sense.
 
-## 🖥️ Software Product Contributions
-I've contributed to these commercial software products:
+### **2014-2016: Back to School**
+When Sony laid me off in 2014, I turned the severance package into an opportunity to formalize my computer science knowledge at the **University of Wisconsin-Madison**. Working as a Research Assistant at the Center for High Throughput Computing while completing my coursework, I transformed what could have been a setback into a strategic investment in my technical foundation.
 
-**Sony Creative Software**
-- Vegas Pro - Professional video editing software
-- Sound Forge Pro/Audio Studio - Professional audio editing software
-- ACID Pro/Music Studio - Music production software
-- DVD Architect - DVD and Blu-ray authoring software
-- Movie Studio - Consumer video editing software
-- SpectraLayers - Spectral audio editing software
-- Cinescore - Automatic soundtrack generation software
+### **2016-2024: Pixar Animation Studios**
+At **Pixar**, I supported 200+ developers and artists as a **Build Release Engineer**, contributing to 11 major films including *Coco*, *Soul*, and *Inside Out 2*. I co-led the migration from RPM to Conda packaging, managed a repository of 530+ packages, and developed **BuildMetrics**—a Python application that reduced build times by 20% across the studio.
 
-**Sonic Foundry (Pre-Sony)**
-- Vegas Video - Non-linear video editing software
-- Siren Jukebox - Media player and management software
+### **2024-Present: Independent Developer & Open Source**
+When Pixar laid me off in 2024, I saw an opportunity to pursue remote work that would allow me to move back to Madison and care for my aging mother. While searching for the right remote position, I channeled my decades of experience into ambitious open-source projects, creating tools that solve real-world development problems:
 
-## 🛠️ Technical Skills
-### Build Systems & CI/CD
-![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-![SCons](https://img.shields.io/badge/-SCons-3776AB?style=flat&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Buck2](https://img.shields.io/badge/-Buck2-1877F2?style=flat&logo=meta&logoColor=white)
+## 🛠️ Featured Projects
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+### **DevEnv** - Cross-Platform Development Environment Manager
+*The culmination of 25+ years of development environment experience*
 
-### DevOps & Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Perforce](https://img.shields.io/badge/-Perforce-404040?style=flat&logo=perforce&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=anaconda&logoColor=white)
+A hermetic, portable, container-aware system that automates development tool setup across Linux, macOS, Windows, and WSL. Born from frustration with inconsistent dev environments, it features 15+ integrated modules with state-aware installation and container orchestration.
 
-### AR/VR & 3D Pipeline
-![Maya](https://img.shields.io/badge/-Maya-0696D7?style=flat&logo=autodesk&logoColor=white)
-![Houdini](https://img.shields.io/badge/-Houdini-FF4713?style=flat&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+[🔗 Explore DevEnv](./devenv)
 
-## 🚀 Featured Projects
+### **ModernArchive** - Modern Self-Extracting Archive Utility
+*Reimagining classic software distribution for modern workflows*
 
-### [DevEnv: Cross-Platform Development Environment](https://github.com/imcalderon/devenv)
-Comprehensive development environment management system with modular architecture, supporting 15+ tools across Linux, macOS, Windows, and WSL. Features state-aware installation, container orchestration, and cross-platform abstraction layer.
+A complete C++17 reimplementation of a late 1990s Sonic Foundry archive tool. Creates professional self-extracting executables with automatic MSI execution—bridging my installer engineering experience with modern development practices.
 
-### [PatchTester](https://github.com/imcalderon/patchtester)
-Advanced tool for automated code integration testing with Jira and Perforce integration. Features conflict detection, automated reporting, and integration success/failure analysis.
+[🔗 View ModernArchive](./modernarchive)
 
-### [BatAttack](https://github.com/imcalderon/BatAttack)
-Interactive JavaScript game demonstrating front-end development skills. Features canvas-based animation, collision detection, and score tracking.
+### **Installer Building System** - Database-Driven MSI Creation
+*Professional installer generation with web-based management*
 
-### BuildMetrics
-Full-stack Python application for build system analysis and optimization. Features multi-threaded log processing, SQL-based analytics, and web visualization that achieved 20% reduction in build times.
+A comprehensive platform combining database-driven architecture with ModernArchive technology for enterprise-grade Windows installer distribution. Features state machine build processes and intuitive web interfaces.
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imcalderon&show_icons=true&theme=dark)
+[🔗 Check out the Installer System](./installer-building-system)
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanmcalderon)
-[![IMDB](https://img.shields.io/badge/-IMDB-F5C518?style=flat&logo=imdb&logoColor=black)](https://www.imdb.com/name/nm12338808)
+### **BatAttack** - Educational Platformer Game
+*From UW Madison CS506 to modern game development*
+
+A Phaser 3 platformer originally developed for CS506, modernized with improved architecture. Demonstrates game development skills while maintaining educational value through bat ecology facts.
+
+[🔗 Play BatAttack](./bat-attack)
+
+### **2025-Present: Meta (Horizons Team)**
+Now I'm applying this entire journey to the cutting edge: developing **AR/VR pipeline infrastructure and tools** at Meta. Working with Perforce administration for large-scale 3D content, building systems for testing pipelines, and creating APIs that support the next generation of social experiences in Augmented and Virtual Reality.
+
+## 🔧 Technical Evolution
+
+**Audio Engineering Foundation**: Live sound mixing, studio design, signal flow  
+**Software Quality**: Automated testing, user experience validation  
+**Build Engineering**: MSI development, CI/CD infrastructure, cross-platform distribution  
+**Pipeline Architecture**: SCons, Jenkins, Python applications, database-driven systems  
+**Modern Development**: Container orchestration, AR/VR tools, developer experience
+
+## 🌟 Philosophy
+
+> *"A development environment should be a precise instrument, not a collection of accidents."*
+
+From mixing boards to build systems, the core principle remains the same: create tools that empower others to do their best creative work. Whether it's helping a band sound their best on stage or helping developers ship great software, it's all about optimizing the creative process.
 
 ---
 
-💼 **Currently building the future of AR/VR at Meta | Pipeline Technical Artist specializing in build systems, CI/CD, and developer tooling**
+**Built with ❤️ through Human-AI Collaboration**  
+*Where 25+ years of audio engineering precision meets modern software development innovation*
