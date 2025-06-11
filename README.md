@@ -10,7 +10,7 @@ Born in Bogotá, Colombia, and immigrated to the United States in 1985, I've bui
 My technical journey started behind the mixing board at **The Chamber** and **The New Loft** in Madison, WI. As a teenager, I was mixing live sound for 100+ bands including legendary drummer **Clyde Stubblefield's Blue Mondays**, designing custom PA systems, and mentoring youth in audio engineering. This hands-on experience taught me precision, workflow optimization, and creative problem-solving under pressure.
 
 ### **1999-2005: QA Engineer at Sonic Foundry**
-The transition from audio engineering to software happened naturally when I joined **Sonic Foundry** as Lead QA Engineer for **Vegas Video** (now MAGIX Vegas Pro). I was testing the very software tools that professional audio and video engineers used, bridging my understanding of user needs with technical implementation. This role taught me automated testing frameworks and the importance of user-centered design.
+The transition from audio engineering to software happened naturally when I joined **Sonic Foundry** as Lead QA Engineer for **Vegas Audio/Video** (now MAGIX Vegas Pro). I was testing the very software tools that professional audio and video engineers used, bridging my understanding of user needs with technical implementation. This role taught me automated testing frameworks and the importance of user-centered design.
 
 ### **2003-2006: Studio Build & Production**
 While at Sonic Foundry, I co-founded **23 Productions**, designing and building a complete recording studio with isolated vocal and drum rooms. This project combined my audio engineering roots with project management and technical architecture skills—essentially becoming a "build engineer" for physical spaces.
