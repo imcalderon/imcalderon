@@ -6,10 +6,10 @@ Infrastructure engineer specializing in build systems, CI/CD pipelines, and deve
 
 ## 🔧 Core Expertise
 
-**Build Systems**: Buck2, SCons, CMake, Bazel, MSBuild  
-**CI/CD**: Jenkins, Conveyor, fbpkg, GitHub Actions  
-**Package Management**: Conda, Rez, npm, pip  
-**Languages**: Python, C++, Shell, JavaScript  
+**Build Systems**: Buck2, SCons, CMake, Bazel, MSBuild
+**CI/CD**: Jenkins, Conveyor, fbpkg, GitHub Actions
+**Package Management**: Conda, Rez, npm, pip
+**Languages**: Python, C++, Shell, JavaScript
 **Platforms**: Linux, macOS, Windows, WSL
 
 ## 🛠️ Featured Projects
@@ -23,17 +23,17 @@ Hermetic, portable development environment system with container orchestration s
 - Modular architecture for extensibility
 - Cross-platform compatibility (Linux/macOS/Windows/WSL)
 
-[🔗 View Repository](./devenv)
+[🔗 View Repository](https://github.com/imcalderon/devenv)
 
 ### **ModernArchive** - Self-Extracting Archive Utility
 Modern C++17 implementation of professional self-extracting archives with automatic MSI execution. Enables streamlined software distribution workflows.
 
-[🔗 View Repository](./modernarchive)
+[🔗 View Repository](https://github.com/imcalderon/ModernArchive)
 
-### **Installer Building System** - Enterprise MSI Platform
+### **mkInstaller** - Enterprise MSI Platform
 Database-driven installer generation system with web-based management interface. Supports complex build state machines and automated distribution workflows.
 
-[🔗 View Repository](./installer-building-system)
+[🔗 View Repository](https://github.com/imcalderon/mkInstaller)
 
 ## 💼 Professional Highlights
 
